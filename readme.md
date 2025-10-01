@@ -53,4 +53,6 @@ Project Link: [solidprinciples](https://github.com/ather-techie/solidprinciples)
 
 ## Acknowledgments
 
-- Inspired by Robert C. Martin ("Uncle Bob") and the original SOLID principles.
+This repository was created for educational purposes to demonstrate the SOLID principles in software design. The examples are inspired by widely available tutorials, articles, and programming resources on SOLID principles. While the code is written by me, the concepts and patterns are based on standard explanations commonly used in the software development community.
+
+I would like to acknowledge the broader developer community, educators, and open-source contributors whose resources, writings, and discussions have helped shape these examples. Inspired by Robert C. Martin ("Uncle Bob") and the original SOLID principles.
